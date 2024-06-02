@@ -1,1 +1,1 @@
-# MERN-stack-with-auth
+# MERN-stack
