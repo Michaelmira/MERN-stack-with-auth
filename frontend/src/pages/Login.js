@@ -5,7 +5,7 @@ const Login = () => {
     const [password, setPassword] = useState('')
 
     const handleSubmit = async (e) => {
-        e.preventDefult()
+        e.preventDefault()
 
         console.log(email, password)
     } 
